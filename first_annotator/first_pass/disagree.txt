@@ -1,0 +1,116 @@
+ID: 7
+Input Sentence: O bana kendi ebedi tasarılarından , bir zamanlar o kadar aşkla , başarı ile başlamış olduğu tarih araştırmalarından söz ederdi . 
+target: araştır+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Abl+</s> pred: araştır+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Abl+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: ara
+Correct Tag(s): P3pl
+Correct Data: ara+Verb+Pos^DB+Noun+Inf2+A3pl+P3pl+Abl
+Degree of Certainty (1-5): 4
+
+ID: 15
+Input Sentence: Ne var ki amirlerine karşı her zaman kabalık ederdi . 
+target: amir+Noun+A3sg+P3pl+Dat+</s> pred: amir+Noun+A3pl+P3pl+Dat+</s>
+Difference: ['A3sg'] <===> ['A3pl']
+Correct Lemma: amir
+Correct Tag(s): A3pl
+Correct Data: amir+Noun+A3pl+P3pl+Dat
+Degree of Certainty (1-5): 5
+
+ID: 19
+Input Sentence: Futbolun yanı sıra Harry Potter gibi film kahramanlarının da lisans haklarını aldıklarını belirten Göksan , " Lisanslı üretimlerden yılda 25 milyon dolar ihracatyapıyoruz . 
+target: al+Verb+Pos+DB+Noun+PastPart+A3sg+P3pl+Acc+</s> pred: al+Verb+Pos+DB+Noun+PastPart+A3pl+P3pl+Acc+</s>
+Difference: ['A3sg'] <===> ['A3pl']
+Correct Lemma: al
+Correct Tag(s): A3pl
+Correct Data: al+Verb+Pos+DB+Noun+PastPart+A3pl+P3pl+Acc
+Degree of Certainty (1-5): 5
+
+ID: 20
+Input Sentence: Uzak Hedefler : 1 - Halkın devlete karşı gösterilen şekilde , harekete geçmesi 2 - Milyonlarca kişiden oluşturulacak Muhammed Ordusu'nun fiili olarak devletin güçlerine karşı harekete geçmesi 3 - Devlet kurumlarının işgali ve islam devletinin resmen işgali ELE GEÇİRİLENLER Örgüt hakkında bugüne kadar güvenlik güçlerine en detaylı bilgiler yine örgütün itirafçıları tarafından verildi . 
+target: itirafçı+Noun+A3sg+P3pl+Nom+</s> pred: itirafçı+Noun+A3pl+P3pl+Nom+</s>
+Difference: ['A3sg'] <===> ['A3pl']
+Correct Lemma: itiraf
+Correct Tag(s): A3pl
+Correct Data: itiraf+Noun+A3pl+P3pl+Nom
+Degree of Certainty (1-5): 4
+
+ID: 22
+Input Sentence: Allah'ım , o kullanmayacaksa bana zenginlik nasip etme ! ' diyordum ve parama para katıyordum . 
+target: Allah+Noun+A3sg+Prop+P1sg+Nom+</s> pred: Allah+Noun+Prop+Prop+P1sg+Nom+</s>
+Difference: ['A3sg'] <===> []
+Correct Lemma: Allah
+Correct Tag(s):
+Correct Data: Allah+Noun+Prop+Prop+P1sg+Nom
+Degree of Certainty (1-5): 4
+
+ID: 38
+Input Sentence: Dosya veya klasörün , Tam Denetim , Oku , Yaz gibi izinlerinin değiştirilmesine izin verir veya bu izni reddeder . 
+target: izin+Noun+A3sg+Pnon+Acc+</s> pred: izin+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['Acc'] <===> ['Nom']
+Correct Lemma: izin
+Correct Tag(s): -
+Correct Data: izin+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 5
+
+ID: 69
+Input Sentence: Pozitif bir sonuç x ekseninden saatin ters yönünde bir açıyı ifade eder ; negatif bir sayı saat yönünde bir açıyı ifade eder . 
+target: bir+Adj+</s> pred: bir+Det+</s>
+Difference: ['Adj'] <===> ['Det']
+Correct Lemma: bir
+Correct Tag(s): Det
+Correct Data: bir+Det
+Degree of Certainty (1-5): 5
+
+ID: 70
+Input Sentence: Pozitif bir sonuç x ekseninden saatin ters yönünde bir açıyı ifade eder ; negatif bir sayı saat yönünde bir açıyı ifade eder . 
+target: bir+Adj+</s> pred: bir+Det+</s>
+Difference: ['Adj'] <===> ['Det']
+Correct Lemma: bir
+Correct Tag(s): Det
+Correct Data: bir+Det
+Degree of Certainty (1-5): 5
+
+ID: 71
+Input Sentence: Pozitif bir sonuç x ekseninden saatin ters yönünde bir açıyı ifade eder ; negatif bir sayı saat yönünde bir açıyı ifade eder . 
+target: bir+Adj+</s> pred: bir+Det+</s>
+Difference: ['Adj'] <===> ['Det']
+Correct Lemma: bir
+Correct Tag(s): Det
+Correct Data: bir+Det
+Degree of Certainty (1-5): 5
+
+ID: 81
+Input Sentence: Büyükbaba buraya geldiği zaman ... 
+target: gel+Verb+Pos+DB+Adj+PastPart+P3sg+</s> pred: gel+Verb+Pos+DB+Noun+PastPart+P3sg+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: gel
+Correct Tag(s): Noun
+Correct Data: gel+Verb+Pos+DB+Noun+PastPart+P3sg
+Degree of Certainty (1-5): 5
+
+ID: 82
+Input Sentence: Doğruca kapıya gitmek yerine geriye çekildi ve eliyle beni yanına çağırdı . " 
+target: doğru+Adj+DB+Adverb+Ly+</s> pred: doğru+Noun+DB+Adverb+Ly+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: doğru
+Correct Tag(s): Noun
+Correct Data: doğru+Noun+DB+Adverb+Ly
+Degree of Certainty (1-5): 5
+
+ID: 85
+Input Sentence: Küçücük , ama yine de yeteri kadar büyük odasında , ezbere bildiği dört duvarın arasında eskiden nasılsa şimdi yine öyleydi . 
+target: bil+Verb+Pos+DB+Adj+PastPart+P3sg+</s> pred: bil+Verb+Pos+DB+Noun+PastPart+P3sg+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: bil
+Correct Tag(s): Noun, A3sg, Nom
+Correct Data: bil+Verb+Pos+DB+Adj+PastPart+A3sg+P3sg+Acc
+Degree of Certainty (1-5): 5
+
+ID: 108
+Input Sentence: Grubun patronu Ayhan Şahenk , borcu üstlenerek 7.5 milyon dolara yalıyı aldı ve Doğuş Çelik Civata Sanayii A.Ş. adına tescil ettirdi . 
+target: çelik+Adj+</s> pred: çelik+Noun+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: çelik
+Correct Tag(s): A3sg, Pnon, Nom
+Correct Data: çelik+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 5

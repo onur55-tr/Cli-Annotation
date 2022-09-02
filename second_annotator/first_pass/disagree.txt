@@ -1,0 +1,36 @@
+ID: 6
+Input Sentence: Tam o sırada olacakları hemen anlayan Weedon Scott , kadının kollarından ayrılıp , kudurmuş gibi hırlayan ve saldırıya geçmek için hazırlanan Beyaz Diş'i yakaladı .
+target: ol+Verb+Pos+DB+Noun+FutPart+A3pl+Pnon+Acc+</s> pred: ol+Verb+Pos+DB+Noun+FutPart+A3sg+Pnon+Acc+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: ol
+Correct Tag(s): A3sg
+Correct Data: ol+Verb+Pos+DB+Noun+FutPart+A3sg+Pnon+Acc
+Degree of Certainty (1-5): 5
+
+ID: 7
+Input Sentence: O bana kendi ebedi tasarılarından , bir zamanlar o kadar aşkla , başarı ile başlamış olduğu tarih araştırmalarından söz ederdi .
+target: araştır+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Abl+</s> pred: araştır+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Abl+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: araştır
+Correct Tag(s): A3sg, P3pl
+Correct Data: araştır+Verb+Pos+DB+Noun+Inf2+A3sg+P3pl+Abl
+Degree of Certainty (1-5): 5
+
+ID: 13
+Input Sentence: Hıristiyan cemaatin yaptığı yılbaşı kutlamalarına Osmanlı'nın ilgisi 1829'da başlar .
+target: kutla+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Dat+</s> pred: kutla+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Dat+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: kutla
+Correct Tag(s): A3pl, P3pl
+Correct Data: kutla+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Dat
+Degree of Certainty (1-5): 4
+
+ID: 38
+Input Sentence: Dosya veya klasörün , Tam Denetim , Oku , Yaz gibi izinlerinin değiştirilmesine izin verir veya bu izni reddeder .
+target: izin+Noun+A3sg+Pnon+Acc+</s> pred: izin+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['Acc'] <===> ['Nom']
+Correct Lemma: izin
+Correct Tag(s): P3sg, Nom
+Correct Data: izin+Noun+A3sg+P3sg+Nom
+Degree of Certainty (1-5): 1
+

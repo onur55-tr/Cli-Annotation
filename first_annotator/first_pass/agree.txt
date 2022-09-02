@@ -1,0 +1,224 @@
+ID: 4
+Input Sentence: Erişildiklerinde gecikme olmaz . 
+target: eriş+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3pl+P3sg+Loc+</s> pred: eriş+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3sg+P3pl+Loc+</s>
+Difference: ['A3pl', 'P3sg'] <===> ['A3sg', 'P3pl']
+Correct Lemma: eriş
+Correct Tag(s): P3pl
+Correct Data: eriş+Verb+DB+Verb+Pass+Pos+DB+Noun+PastPart+A3pl+P3pl+Loc
+Degree of Certainty (1-5): 5
+
+ID: 5
+Input Sentence: Tel : 0212 351 93 90 EV YEMEĞİ Buğulu mutfak Ortaköy özellikle hafta sonu gezmelerinde favorimiz . 
+target: gez+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Loc+</s> pred: gez+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Loc+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: gez
+Correct Tag(s): P3pl
+Correct Data: gez+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Loc
+Degree of Certainty (1-5): 5
+
+ID: 10
+Input Sentence: TRT yönetimi 13 Şubat 1987'de Beyoğlu Belediyesi'ne bir avam projeyle başvurarak 113 bin 340 metrekare üzerine oturan bu binanın yapımı için izin istedi . 
+target: avam+Noun+A3pl+Pnon+Nom+</s> pred: mvam+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: avam
+Correct Tag(s): A3sg
+Correct Data: avam+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 5
+
+ID: 16
+Input Sentence: Bir şeyler aşırmalarının yanı sıra bir de böyle bir huyları vardı . 
+target: huy+Noun+A3sg+P3pl+Nom+</s> pred: huy+Noun+A3pl+P3pl+Nom+</s>
+Difference: ['A3sg'] <===> ['A3pl']
+Correct Lemma: huy
+Correct Tag(s): A3pl
+Correct Data: huy+Noun+A3pl+P3pl+Nom
+Degree of Certainty (1-5): 5
+
+ID: 17
+Input Sentence: Ancak nişanlanmalarından altı ay sonra ayrılmaları , Kafka'nın hiçbir zaman ulaşamayacağı , oysa çok önemsediği evliliğin kendinden kopmasının başlangıcı olacaktı , yani ebedi nişanların başlangıcı ... 
+target: nişanla+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf2+A3sg+P3pl+Abl+</s> pred: nişanla+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf2+A3pl+P3pl+Abl+</s>
+Difference: ['A3sg'] <===> ['A3pl']
+Correct Lemma: nişan
+Correct Tag(s): A3pl
+Correct Data: nişan+Verb^DB+Verb+Pass+Pos+DB+Noun+Inf2+A3pl+P3pl+Abl
+Degree of Certainty (1-5): 5
+
+ID: 18
+Input Sentence: Ancak nişanlanmalarından altı ay sonra ayrılmaları , Kafka'nın hiçbir zaman ulaşamayacağı , oysa çok önemsediği evliliğin kendinden kopmasının başlangıcı olacaktı , yani ebedi nişanların başlangıcı ... 
+target: ayır+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf2+A3sg+P3pl+Nom+</s> pred: ayır+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf2+A3pl+P3pl+Nom+</s>
+Difference: ['A3sg'] <===> ['A3pl']
+Correct Lemma: ayır
+Correct Tag(s): A3pl
+Correct Data: ayır+Verb+DB+Verb+Pass+Pos+DB+Noun+Inf2+A3pl+P3pl+Nom
+Degree of Certainty (1-5): 5
+
+ID: 33
+Input Sentence: Avukatının aklı ile Almanya'ya geldi , çocuklarını alamadığını söyleyerek mahkemeyi yanıltmaya çalıştı . 
+target: al+Verb+DB+Verb+Able+Neg+DB+Noun+PastPart+A3sg+P3sg+Acc+</s> pred: al+Verb+DB+Verb+Pass+Neg+DB+Noun+PastPart+A3sg+P3sg+Acc+</s>
+Difference: ['Able'] <===> ['Pass']
+Correct Lemma: al
+Correct Tag(s): Pass
+Correct Data: al+Verb+DB+Verb+Pass+Neg+DB+Noun+PastPart+A3sg+P3sg+Acc
+Degree of Certainty (1-5): 5
+
+ID: 39
+Input Sentence: Ama Luca gibi o da gidişten memnun değildi . " 
+target: memnu+Adj+DB+Noun+Zero+A3sg+P2sg+Nom+</s> pred: memnun+</s>+Verb+Zero+A3sg+P2sg+Nom+</s>+
+Difference: ['Adj', 'DB', 'Noun'] <===> ['Verb']
+Correct Lemma: memnun
+Correct Tag(s): Adj
+Correct Data: memnun+Adj
+Degree of Certainty (1-5): 5
+
+ID: 46
+Input Sentence: Öyle olsaydım keşke ! 
+target: öyle+Adj+</s> pred: öyle+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: öyle
+Correct Tag(s): Adverb
+Correct Data: öyle+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 47
+Input Sentence: Bayan Havisham'ın nasıl olduğunu görmeye hiç gelmiyor . 
+target: nasıl+Adj+</s> pred: nasıl+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: nasıl
+Correct Tag(s): Adverb
+Correct Data: nasıl+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 48
+Input Sentence: Uyanınca evli ve yaşlı olanlar en iyi giysilerini giyer , gençlerin din konusundaki boşvermişliklerini çekiştirerek kiliseye giderler ; dönüşte biraz börek yedikten sonra yine akşama dek uyurlardı . 
+target: biraz+Adj+</s> pred: biraz+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: biraz
+Correct Tag(s): Adverb
+Correct Data: Biraz+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 49
+Input Sentence: Ben burada yalnız başına ölebilirim . 
+target: yalnız+Adj+</s> pred: yalnız+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: yalnız
+Correct Tag(s): Adverb
+Correct Data: yalnız+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 52
+Input Sentence: Biraz likör almak için durdu . 
+target: biraz+Adj+</s> pred: biraz+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: biraz
+Correct Tag(s): Adverb
+Correct Data: biraz+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 54
+Input Sentence: Nasıl göründüğüne değil , delillere bakacaksın . 
+target: nasıl+Adj+</s> pred: nasıl+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: nasıl
+Correct Tag(s): Adverb
+Correct Data: nasıl+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 57
+Input Sentence: Paylaşılan öğemin diğer insanların bilgisayarlarında nasıl görüneceğini önizlediğim zaman öğe doğru biçimde görünmüyor . 
+target: nasıl+Adj+</s> pred: nasıl+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: nasıl
+Correct Tag(s): Adverb
+Correct Data: nasıl+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 68
+Input Sentence: Hatayla karşılaşıldığında , Kurulum Sihirbazına bir hata kodu döndürülür ve yapılandırma sihirbazı Yapılandırma Başarısız ekranını görüntüler . 
+target: bir+Adj+</s> pred: bir+Det+</s>
+Difference: ['Adj'] <===> ['Det']
+Correct Lemma: bir
+Correct Tag(s): Der
+Correct Data: bir+Det
+Degree of Certainty (1-5): 5
+
+ID: 86
+Input Sentence: Sorun sadece hırpalanmış sol yanı yüzünden yemek yemekte güçlük çekmesi değildi - yemek yiyebilmesi için soluk soluğa tüm gövdesinin çaba harcaması gerekiyordu - , en sevdiği içecek olan ve kız kardeşinin de tabii ki bu nedenle getirmiş olduğu sütün tadından da hiç hoşlanmamıştı . 
+target: kız+Adj+</s> pred: kız+Noun+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: kız
+Correct Tag(s): Noun, A3sg, Pnon, Nom
+Correct Data: kız+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 5
+
+ID: 87
+Input Sentence: Boğulacakmış gibi , biraz dışarı fırlamış gözlerle , hiçbir şeyin farkında olamayan kız kardeşinin elindeki süpürgeyle artıkların yanı sıra , Gregor'un hiç dokunmadığı yiyecekleri de süpürüşünü seyretti . 
+target: kız+Adj+</s> pred: kız+Noun+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: kız
+Correct Tag(s): Noun, A3sg, Pnon, Nom
+Correct Data: kız+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 5
+
+ID: 88
+Input Sentence: Gregor , doktorla çilingirin ilk gün hangi bahaneyle kapıdan döndürüldüklerini hiçbir zaman öğrenemedi , çünkü onun söyledikleri anlaşılmadığı için kız kardeşi de dahil kimse onun başkalarını anlayabileceğini düşünmüyordu . 
+target: kız+Adj+</s> pred: kız+Noun+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: kız
+Correct Tag(s): Noun, A3sg, Pnon, Nom
+Correct Data: kız+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 5
+
+ID: 104
+Input Sentence: Antalya'da durum nasıldır bilemem ama Bodrum'a giden yabancı turist ya çok züğürt oluyor ya da çok cimri . 
+target: züğürt+Adj+</s> pred: züğürt+Noun+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: züğürt
+Correct Tag(s): Adverb
+Correct Data: züğürt+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 122
+Input Sentence: Internet ağ geçidi aygıtınız veya ana bilgisayarınız doğru yapılandırılmıştır ve ağa bağlıdır . 
+target: doğru+Adj+</s> pred: doğru+Postp+</
+Difference: ['Adj'] <===> ['Postp']
+Correct Lemma: doğru
+Correct Tag(s): Adverb
+Correct Data: doğru+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 126
+Input Sentence: Kızım bunu zaten biliyor Prens , ne yazık ki , hepsini biliyor ! .. 
+target: ne+Adj+</s> pred: ne+Pron+</s
+Difference: ['Adj'] <===> ['Pron']
+Correct Lemma: ne
+Correct Tag(s): Pron, Demons, A3sg, Pnon, Nom
+Correct Data: ne+Pron+Demons+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 5
+
+ID: 127
+Input Sentence: Gregor ne dediğinin farkında bile değildi . 
+target: ne+Adj+</s> pred: ne+Pron+</s
+Difference: ['Adj'] <===> ['Pron']
+Correct Lemma: ne
+Correct Tag(s): Pron, Demons, A3sg, Pnon, Nom
+Correct Data: ne+Pron+Demons+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 4
+
+ID: 131
+Input Sentence: Gizli verileri dışarıda tutmak için Yalnızca görünür öğeler'i seçin . 
+target: görünür+Adj+</s> pred: görün+Verb+Verb+
+Difference: ['Adj'] <===> ['Verb', 'Verb', 'Verb']
+Correct Lemma: gör
+Correct Tag(s): Verb, Db, Verb, ?, Pos, A3sg, Pnon, ?
+Correct Data: gör+Verb+DB+Verb+?+Pos+A3sg+Pnon+?
+Degree of Certainty (1-5): 2
+
+ID: 139
+Input Sentence: Bütün düş kırıklıkları , tehlikeler , olumsuzluklar başıma üşüşmüştü ve aldığım her nefes için ayrı zahmet çekiyordum . " 
+target: kırık+Adj+DB+Noun+Ness+A3pl+P3sg+Nom+</s> pred: kırık+Noun+DB+Noun+Ness+A3pl+P3sg+Nom+</s
+Difference: ['Adj'] <===> []
+Correct Lemma: kırık
+Correct Tag(s): Noun
+Correct Data: kırık+Noun+DB+Noun+Ness+A3pl+P3sg+Nom
+Degree of Certainty (1-5): 5

@@ -1,0 +1,10 @@
+# Example
+
+ID: X
+Input Sentence: Aşk insanları yumuşatır ; oysa senin söylediğin sözler öyle nefret dolu ki . " 
+target: söyle+Verb+Pos+DB+Adj+PastPart+P2sg+</s> pred: söyle+Verb+Pos+DB+Noun+PastPart+P2sg+</s
+Difference: ['Adj'] <===> ['Noun']
+Degree of Certainty (1-5): 5
+
+########################################################################################################
+

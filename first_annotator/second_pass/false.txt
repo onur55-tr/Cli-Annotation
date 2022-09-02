@@ -1,0 +1,1422 @@
+ID: 5
+Input Sentence: O bana kendi ebedi tasarılarından , bir zamanlar o kadar aşkla , başarı ile başlamış olduğu tarih araştırmalarından söz ederdi .
+target: araştır+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Abl+</s> pred: araştır+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Abl+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: araştır
+Correct Tag(s): A3sg, P3pl
+Correct Data: araştır+Verb+Pos+DB+Noun+Inf2+A3sg+P3pl+Abl
+Degree of Certainty (1-5): 5
+
+ID: 7
+Input Sentence: Hıristiyan cemaatin yaptığı yılbaşı kutlamalarına Osmanlı'nın ilgisi 1829'da başlar .
+target: kutla+Verb+Pos+DB+Noun+Inf2+A3pl+P3sg+Dat+</s> pred: kutla+Verb+Pos+DB+Noun+Inf2+A3sg+P3sg+Dat+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: kutla
+Correct Tag(s): A3pl, P3pl
+Correct Data: kutla+Verb+Pos+DB+Noun+Inf2+A3pl+P3pl+Dat
+Degree of Certainty (1-5): 4
+
+ID: 10
+Input Sentence: Tam o sırada olacakları hemen anlayan Weedon Scott , kadının kollarından ayrılıp , kudurmuş gibi hırlayan ve saldırıya geçmek için hazırlanan Beyaz Diş'i yakaladı .
+target: ol+Verb+Pos+DB+Noun+FutPart+A3pl+Pnon+Acc+</s> pred: ol+Verb+Pos+DB+Noun+FutPart+A3sg+Pnon+Acc+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: ol
+Correct Tag(s): A3sg
+Correct Data: ol+Verb+Pos+DB+Noun+FutPart+A3sg+Pnon+Acc
+Degree of Certainty (1-5): 5
+
+ID: 15
+Input Sentence: TRT yönetimi 13 Şubat 1987'de Beyoğlu Belediyesi'ne bir avam projeyle başvurarak 113 bin 340 metrekare üzerine oturan bu binanın yapımı için izin istedi .
+target: avam+Noun+A3pl+Pnon+Nom+</s> pred: mvam+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['A3pl'] <===> ['A3sg']
+Correct Lemma: avam
+Correct Tag(s): A3sg
+Correct Data: avam+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 4
+
+ID: 26
+Input Sentence: Türkiye'de doğal üretim sertifikası veren biri Türk , yedi uluslararası denetim firması var .
+target: bir+Adj+DB+Noun+Zero+A3sg+Pnon+Acc+</s> pred: biri+DB+Noun+Zero+A3sg+P3sg+Acc+</s>+</
+Difference: ['Adj', 'Pnon'] <===> ['P3sg']
+Correct Lemma: biri
+Correct Tag(s): Pron, Quant, P3sg, Nom
+Correct Data: biri+Pron+Quant+A3sg+P3sg+Nom
+Degree of Certainty (1-5): 4
+
+ID: 27
+Input Sentence: Biraz likör almak için durdu .
+target: biraz+Adj+</s> pred: biraz+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: biraz
+Correct Tag(s): Adverb
+Correct Data: biraz+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 28
+Input Sentence: Uyanınca evli ve yaşlı olanlar en iyi giysilerini giyer , gençlerin din konusundaki boşvermişliklerini çekiştirerek kiliseye giderler ; dönüşte biraz börek yedikten sonra yine akşama dek uyurlardı .
+target: biraz+Adj+</s> pred: biraz+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: biraz
+Correct Tag(s): Adverb
+Correct Data: biraz+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 29
+Input Sentence: Aşk insanları yumuşatır ; oysa senin söylediğin sözler öyle nefret dolu ki . "
+target: öyle+Adj+</s> pred: öyle+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: öyle
+Correct Tag(s): Adverb
+Correct Data: öyle+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 30
+Input Sentence: Bu körpecik sineler neden bu denli coşkuyla yükselip alçalıyor , inip kalkıyor ? " diye sorar durursunuz .
+target: denli+Adj+</s> pred: denli+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: denli
+Correct Tag(s): Adverb
+Correct Data: denli+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 32
+Input Sentence: Öyle olsaydım keşke !
+target: öyle+Adj+</s> pred: öyle+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: öyle
+Correct Tag(s): Adverb
+Correct Data: öyle+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 33
+Input Sentence: Bayan Havisham'ın nasıl olduğunu görmeye hiç gelmiyor .
+target: nasıl+Adj+</s> pred: nasıl+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: nasıl
+Correct Tag(s): Adverb
+Correct Data: nasıl+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 34
+Input Sentence: Ben burada yalnız başına ölebilirim .
+target: yalnız+Adj+</s> pred: yalnız+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: yalnız
+Correct Tag(s): Adverb
+Correct Data: yalnız+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 36
+Input Sentence: Şimdi , ben yalnız değilim , sen öyle sanabilirsin ama ...
+target: öyle+Adj+</s> pred: öyle+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: öyle
+Correct Tag(s): Adverb
+Correct Data: öyle+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 38
+Input Sentence: Nasıl göründüğüne değil , delillere bakacaksın .
+target: nasıl+Adj+</s> pred: nasıl+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: nasıl
+Correct Tag(s): Adverb
+Correct Data: nasıl+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 41
+Input Sentence: Paylaşılan öğemin diğer insanların bilgisayarlarında nasıl görüneceğini önizlediğim zaman öğe doğru biçimde görünmüyor .
+target: nasıl+Adj+</s> pred: nasıl+Adverb+<
+Difference: ['Adj'] <===> ['Adverb']
+Correct Lemma: nasıl
+Correct Tag(s): Adverb
+Correct Data: nasıl+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 52
+Input Sentence: Hücreye yeni bir sayı veya metin girmek için , hücrenin geçerli içeriğini değiştirerek yeni hücre değerini yazın .
+target: bir+Adj+</s> pred: bir+Det+</s>
+Difference: ['Adj'] <===> ['Det']
+Correct Lemma: bir
+Correct Tag(s): Det
+Correct Data: bir+Det
+Degree of Certainty (1-5): 3
+
+ID: 53
+Input Sentence: Hatayla karşılaşıldığında , Kurulum Sihirbazına bir hata kodu döndürülür ve yapılandırma sihirbazı Yapılandırma Başarısız ekranını görüntüler .
+target: bir+Adj+</s> pred: bir+Det+</s>
+Difference: ['Adj'] <===> ['Det']
+Correct Lemma: bir
+Correct Tag(s): Det
+Correct Data: bir+Det
+Degree of Certainty (1-5): 4
+
+ID: 66
+Input Sentence: Küçücük , ama yine de yeteri kadar büyük odasında , ezbere bildiği dört duvarın arasında eskiden nasılsa şimdi yine öyleydi .
+target: bil+Verb+Pos+DB+Adj+PastPart+P3sg+</s> pred: bil+Verb+Pos+DB+Noun+PastPart+P3sg+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: bil
+Correct Tag(s): Noun, A3sg, Nom
+Correct Data: bil+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Nom
+Degree of Certainty (1-5): 5
+
+ID: 73
+Input Sentence: Büyükbaba buraya geldiği zaman ...
+target: gel+Verb+Pos+DB+Adj+PastPart+P3sg+</s> pred: gel+Verb+Pos+DB+Noun+PastPart+P3sg+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: gel
+Correct Tag(s): Noun, Nom
+Correct Data: gel+Verb+Pos+DB+Noun+PastPart+P3sg+Nom
+Degree of Certainty (1-5): 4
+
+ID: 87
+Input Sentence: Antalya'da durum nasıldır bilemem ama Bodrum'a giden yabancı turist ya çok züğürt oluyor ya da çok cimri .
+target: züğürt+Adj+</s> pred: züğürt+Noun+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: züğürt
+Correct Tag(s): Adverb
+Correct Data: züğürt+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 91
+Input Sentence: Grubun patronu Ayhan Şahenk , borcu üstlenerek 7.5 milyon dolara yalıyı aldı ve Doğuş Çelik Civata Sanayii A.Ş. adına tescil ettirdi .
+target: çelik+Adj+</s> pred: çelik+Noun+</s
+Difference: ['Adj'] <===> ['Noun']
+Correct Lemma: çelik
+Correct Tag(s): Noun, Prop, A3sg, Pnon
+Correct Data: çelik+Noun+Prop+A3sg+Pnon
+Degree of Certainty (1-5): 4
+
+ID: 104
+Input Sentence: Doğru söylüyorsun sevgili dostum ancak , herkesin bunu yaparken kendince nedenleri vardır , değil mi ? "
+target: doğru+Adj+</s> pred: doğru+Postp+</
+Difference: ['Adj'] <===> ['Postp']
+Correct Lemma: doğru
+Correct Tag(s): Postp
+Correct Data: doğru+Postp
+Degree of Certainty (1-5): 3
+
+ID: 108
+Input Sentence: Internet ağ geçidi aygıtınız veya ana bilgisayarınız doğru yapılandırılmıştır ve ağa bağlıdır .
+target: doğru+Adj+</s> pred: doğru+Postp+</
+Difference: ['Adj'] <===> ['Postp']
+Correct Lemma: doğru
+Correct Tag(s): Adverb
+Correct Data: doğru+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 112
+Input Sentence: Kızım bunu zaten biliyor Prens , ne yazık ki , hepsini biliyor ! ..
+target: ne+Adj+</s> pred: ne+Pron+</s
+Difference: ['Adj'] <===> ['Pron']
+Correct Lemma: ne
+Correct Tag(s): Pron, Demons, A3sg, Pnon, Nom
+Correct Data: ne+Pron+Demons+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 3
+
+ID: 113
+Input Sentence: Gregor ne dediğinin farkında bile değildi .
+target: ne+Adj+</s> pred: ne+Pron+</s
+Difference: ['Adj'] <===> ['Pron']
+Correct Lemma: ne
+Correct Tag(s): Pron, Ques, A3sg, Pnon, Nom
+Correct Data: ne+Pron+Ques+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 3
+
+ID: 114
+Input Sentence: Oysa ben onun , ikimizi birlikte görmesini , birbirimizi ne kadar sevdiğmizi bilmesini istiyorum .
+target: ne+Adj+</s> pred: ne+Pron+</s
+Difference: ['Adj'] <===> ['Pron']
+Correct Lemma: ne
+Correct Tag(s): Pron, Ques, A3sg, Pnon, Nom
+Correct Data: ne+Pron+Ques+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 3
+
+ID: 115
+Input Sentence: Yeni Uyarı sayfasında , bildirimin nasıl ve ne zaman yapılmasını istediğinizi belirtin .
+target: ne+Adj+</s> pred: ee+Pron+</s
+Difference: ['Adj'] <===> ['Pron']
+Correct Lemma: ne
+Correct Tag(s): Pron, Ques, A3sg, Pnon, Nom
+Correct Data: ne+Pron+Ques+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 3
+
+ID: 116
+Input Sentence: Burası zaten bir eğlence mekanı ne işi var bayrağın , flamanın ? "
+target: ne+Adj+</s> pred: ne+Pron+</s
+Difference: ['Adj'] <===> ['Pron']
+Correct Lemma: ne
+Correct Tag(s): Pron, Ques, A3sg, Pnon, Nom
+Correct Data: ne+Pron+Ques+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 3
+
+ID: 122
+Input Sentence: İlk on beş yılı çok mutlu geçen bu evlilikten Tolstoy'un 13 çocuğu oldu .
+target: ilk+Adverb+</s> pred: ilk+Adj+</s>+</
+Difference: ['Adverb'] <===> ['Adj']
+Correct Lemma: ilk
+Correct Tag(s): Adj
+Correct Data: ilk+Adj
+Degree of Certainty (1-5): 4
+
+ID: 135
+Input Sentence: Tam istediğiniz kayda ulaşıncaya dek , alanları seçmeyi ve Seçime Göre Filtre Uygula'yı / tıklatmayı sürdürerek kayıt alt kümesini daha da daraltabilirsiniz .
+target: tam+Adverb+</s> pred: Tam+Adj+</s>+</
+Difference: ['Adverb'] <===> ['Adj']
+Correct Lemma: tam
+Correct Tag(s): Adj
+Correct Data: tam+Adj
+Degree of Certainty (1-5): 4
+
+ID: 136
+Input Sentence: Tam üç aydır Hazine'den " tıs " yok .
+target: tam+Adverb+</s> pred: tam+Adj+</s>+</
+Difference: ['Adverb'] <===> ['Adj']
+Correct Lemma: tam
+Correct Tag(s): Adj
+Correct Data: tam+Adj
+Degree of Certainty (1-5): 3
+
+ID: 141
+Input Sentence: Reklam yazarlarının % 26'sı en fazla rock ve heavy metal , % 22'si caz , % 20'si ise yabancı pop dinliyor .
+target: fazla+Adverb+</s> pred: fazla+Adj+</s>+</
+Difference: ['Adverb'] <===> ['Adj']
+Correct Lemma: fazla
+Correct Tag(s): Adj
+Correct Data: fazla+Adj
+Degree of Certainty (1-5): 2
+
+ID: 150
+Input Sentence: Ancak şimdi yaşamaya baş - lı - yo - rum ... " diye mırıldanıp duruyordu .
+target: ancak+Adverb+</s> pred: ancak+Conj+</s>+<
+Difference: ['Adverb'] <===> ['Conj']
+Correct Lemma: ancak
+Correct Tag(s): Conj
+Correct Data: ancak+Conj
+Degree of Certainty (1-5): 5
+
+ID: 151
+Input Sentence: Onun okuması için ancak birkaç ay özveride bulunabildi .
+target: ancak+Adverb+</s> pred: ancak+Conj+</s>+<
+Difference: ['Adverb'] <===> ['Conj']
+Correct Lemma: ancak
+Correct Tag(s): Conj
+Correct Data: ancak+Conj
+Degree of Certainty (1-5): 4
+
+ID: 152
+Input Sentence: Etkin İzinler aracı , kullanıcının hangi izinlere sahip olduğu konusunda ancak yaklaşık bir sonuç verir .
+target: ancak+Adverb+</s> pred: ancak+Conj+</s>+<
+Difference: ['Adverb'] <===> ['Conj']
+Correct Lemma: ancak
+Correct Tag(s): Conj
+Correct Data: ancak+Conj
+Degree of Certainty (1-5): 5
+
+ID: 168
+Input Sentence: Delikanlının kalbinde , sanki kardeşiyle arasına girdiğini hissettiği bir yabancıya karşı şiddetli bir düşmanlık ve bir nebze kıskançlık vardı .
+target: karşı+Adverb+</s> pred: karşı+Postp+</s>+
+Difference: ['Adverb'] <===> ['Postp']
+Correct Lemma: karşı
+Correct Tag(s): Postp
+Correct Data: karşı+Postp
+Degree of Certainty (1-5): 4
+
+ID: 169
+Input Sentence: Bunca halttan sonra mon ami mi ?
+target: sonra+Adverb+</s> pred: sonra+Postp+</s>+
+Difference: ['Adverb'] <===> ['Postp']
+Correct Lemma: sonra
+Correct Tag(s): Postp
+Correct Data: sonra+Postp
+Degree of Certainty (1-5): 3
+
+ID: 174
+Input Sentence: Kollarını sıkıca kavuşturup titreyerek odada gezmesine , sonra onu tanımam için tekrar bana bakmasına gerek yoktu .
+target: sonra+Adverb+</s> pred: sonra+Postp+</s>+
+Difference: ['Adverb'] <===> ['Postp']
+Correct Lemma: sonra
+Correct Tag(s): Postp
+Correct Data: sonra+Postp
+Degree of Certainty (1-5): 4
+
+ID: 175
+Input Sentence: Belki akşam yemeğini yedikten sonra geri dönen birisi kapıcının kapısının önünden geçmeden benim kapımın önündeki merdivenlerde uyuyakalmıştı .
+target: sonra+Adverb+</s> pred: sonra+Postp+</s>+
+Difference: ['Adverb'] <===> ['Postp']
+Correct Lemma: sonra
+Correct Tag(s): Postp
+Correct Data: sonra+Post
+Degree of Certainty (1-5): 3
+
+ID: 176
+Input Sentence: Gözlerini bana dikti , sonra hatıraları canlandıran , kısık bir sesle : - Evet , evet , çok iyi hatırlıyorum .
+target: sonra+Adverb+</s> pred: sonra+Postp+</s>+
+Difference: ['Adverb'] <===> ['Postp']
+Correct Lemma: sonra
+Correct Tag(s): Postp
+Correct Data: sonra+Postp
+Degree of Certainty (1-5): 3
+
+ID: 177
+Input Sentence: Üç gözü pek tavuk kabukları toplamak için sırayla kadının eteğine kadar geliyor , sonra gagalarında ganimetleriyle tabana kuvvet kaçışıyorlardı .
+target: sonra+Adverb+</s> pred: sonra+Postp+</s>+
+Difference: ['Adverb'] <===> ['Postp']
+Correct Lemma: sonra
+Correct Tag(s): Postp
+Correct Data: sonra+Postp
+Degree of Certainty (1-5): 3
+
+ID: 178
+Input Sentence: Ama sonra şöyle dedi kendi kendine : ' Saat yediyi çeyrek geçmeden kesinlikle yataktan çıkmış olmalıyım .
+target: sonra+Adverb+</s> pred: sonra+Postp+</s>+
+Difference: ['Adverb'] <===> ['Postp']
+Correct Lemma: sonra
+Correct Tag(s): Postp
+Correct Data: sonra+Postp
+Degree of Certainty (1-5): 3
+
+ID: 179
+Input Sentence: Görevin istek üzerine çalışmasına izin vererek zamanlanmasından önce veya sonra el ile çalıştırılıp çalıştırılamayacağını belirtebilirsiniz .
+target: sonra+Adverb+</s> pred: sonra+Postp+</s>+
+Difference: ['Adverb'] <===> ['Postp']
+Correct Lemma: sonra
+Correct Tag(s): Postp
+Correct Data: sonra+Postp
+Degree of Certainty (1-5): 4
+
+ID: 223
+Input Sentence: Hazine'den , Dış Ekonomik İlişkiler Genel Müdürü Ersen Ekren ile konuşuyorum .
+target: ile+Conj+</s> pred: ile+Postp+</s
+Difference: ['Conj'] <===> ['Postp']
+Correct Lemma: ile
+Correct Tag(s): Postp
+Correct Data: ile+Postp
+Degree of Certainty (1-5): 4
+
+ID: 231
+Input Sentence: Çünkü erken saatlerde tai chi ile başlayan bir günün farkını yaşamalısınız !
+target: ile+Conj+</s> pred: ile+Postp+</s
+Difference: ['Conj'] <===> ['Postp']
+Correct Lemma: ile
+Correct Tag(s): Postp
+Correct Data: ile+Postp
+Degree of Certainty (1-5): 5
+
+ID: 232
+Input Sentence: YEDEK TEKERLEK İÇERDE Çarpıcı motor kapağı , projektör tarzı ön farlar ve daha geniş bir tamponla vurgulanan kendine özgü ızgarası ile yeni CR - V'nin ön tasarım çok daha cesur .
+target: ile+Conj+</s> pred: ile+Postp+</s
+Difference: ['Conj'] <===> ['Postp']
+Correct Lemma: ile
+Correct Tag(s): Postp
+Correct Data: ile+Postp
+Degree of Certainty (1-5): 4
+
+ID: 239
+Input Sentence: Sadece insanlarla değil , evlerle de aram çok iyidir .
+target: değil+Conj+</s> pred: değil+Verb+</s>
+Difference: ['Conj'] <===> ['Verb']
+Correct Lemma: değil
+Correct Tag(s): Postp
+Correct Data: değil+Postp
+Degree of Certainty (1-5): 3
+
+ID: 240
+Input Sentence: Kimseye değil , kendine düşman ! "
+target: değil+Conj+</s> pred: değil+Verb+</s>
+Difference: ['Conj'] <===> ['Verb']
+Correct Lemma: değil
+Correct Tag(s): Postp
+Correct Data: değil+Postp
+Degree of Certainty (1-5): 3
+
+ID: 241
+Input Sentence: Cep cep değil dolaptı sanki !
+target: değil+Conj+</s> pred: değil+Verb+</s>
+Difference: ['Conj'] <===> ['Verb']
+Correct Lemma: değil
+Correct Tag(s): Postp
+Correct Data: değil+Postp
+Degree of Certainty (1-5): 3
+
+ID: 242
+Input Sentence: Nasıl göründüğüne değil , delillere bakacaksın .
+target: değil+Conj+</s> pred: değil+Verb+</s>
+Difference: ['Conj'] <===> ['Verb']
+Correct Lemma: değil
+Correct Tag(s): Postp
+Correct Data: değil+Postp
+Degree of Certainty (1-5): 3
+
+ID: 243
+Input Sentence: Fakat hanım oğluna değil de , Katyuşa'ya kızarak onu işten kovdu .
+target: değil+Conj+</s> pred: değil+Verb+</s>
+Difference: ['Conj'] <===> ['Verb']
+Correct Lemma: değil
+Correct Tag(s): Postp
+Correct Data: değil+Postp
+Degree of Certainty (1-5): 3
+
+ID: 244
+Input Sentence: AVRUPAİ STANDART Beşiktaş Kulübü Başkanı Serdar Bilgili , kongreyi değil futbol takımının şampiyonluğuna kitlendiklerini belirtti .
+target: değil+Conj+</s> pred: değil+Verb+</s>
+Difference: ['Conj'] <===> ['Verb']
+Correct Lemma: değil
+Correct Tag(s): Postp
+Correct Data: değil+Postp
+Degree of Certainty (1-5): 3
+
+ID: 245
+Input Sentence: Ulusal programın sadece yasal düzenlemeleri değil , aynı zamanda uygulamaları içerdiğini belirten Fogg şöyle devam etti : " Yasal düzenlemelerin hayata geçirilmesi demek , AB ile uyum sürecinde görev alacak yeni kişilerin yetiştirilmesi , bu konuda kaynakların oluşturulması ve yatırımları harekete geçirecek kurumların oluşturulmasıdır .
+target: değil+Conj+</s> pred: değil+Verb+</s>
+Difference: ['Conj'] <===> ['Verb']
+Correct Lemma: değil
+Correct Tag(s): Postp
+Correct Data: değil+Postp
+Degree of Certainty (1-5): 3
+
+ID: 322
+Input Sentence: Dosyaları diskte görünmesini istediğiniz sırada düzenlemek için listede yukarı veya aşağı sürükleyin .
+target: yukarı+Noun+A3sg+Pnon+Dat+</s> pred: yukarı+Adj+A3sg+Pnon+Dat+</s>+
+Difference: ['Noun'] <===> ['Adj']
+Correct Lemma: yukarı
+Correct Tag(s): Adverb
+Correct Data: yukarı+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 327
+Input Sentence: Aslana yan bakılmıyor : 3 - 1 Hürriyet 5 eksikli G.Saray , Trabzon engelini zorlanmadan geçti Sarı kırmızılı ekip , sakatlıkların gölgesi altında çıktığı maçta güçlü rakibini sahadan sildi .
+target: yan+Noun+A3sg+Pnon+Nom+</s> pred: yan+Adj+A3sg+Pnon+Nom+</s>+
+Difference: ['Noun'] <===> ['Adj']
+Correct Lemma: yan
+Correct Tag(s): Adverb
+Correct Data: yan+Adverb
+Degree of Certainty (1-5): 5
+
+ID: 355
+Input Sentence: Toplam süre durdurma koşuluyla birlikte kullanıldığında , otomatik yeniden başlatmalar yapılandırmak , toplam süre durdurma koşulu sağlanana kadar verilerin belirtilen her süre veya boyut için ayrı günlük dosyalarında toplanmasına neden olur .
+target: günlük+Noun+A3sg+Pnon+Nom+</s> pred: günlük+Adj+A3sg+Pnon+Nom+</s>+
+Difference: ['Noun'] <===> ['Adj']
+Correct Lemma: günlük
+Correct Tag(s): Adj
+Correct Data: günlük+Adj
+Degree of Certainty (1-5): 3
+
+ID: 362
+Input Sentence: 76 Orange Street Gardens n Winchester Mansions Hotel : Şehre yakın oluşu , okyanus manzarası ve kolonyal mimari yapısıyla dikkat çeken dört yıldızlı otelin 35 normal 21 suit odası bulunuyor .
+target: kolonyal+Noun+A3sg+Pnon+Nom+</s> pred: kolonyal+Adj+A3sg+Pnon+Nom+</s>+
+Difference: ['Noun'] <===> ['Adj']
+Correct Lemma: kolonyal
+Correct Tag(s): Adj
+Correct Data: kolonyal+Adj
+Degree of Certainty (1-5): 3
+
+ID: 363
+Input Sentence: Yunan turizmi de AB fonlarına bakıyor AVRUPALI turizm için neler yapmıyor ?
+target: yunan+Noun+A3sg+Pnon+Nom+</s> pred: yunan+Adj+A3sg+Pnon+Nom+</s>+
+Difference: ['Noun'] <===> ['Adj']
+Correct Lemma: yunan
+Correct Tag(s): Adj
+Correct Data: yunan+Adj
+Degree of Certainty (1-5): 3
+
+ID: 374
+Input Sentence: Kemana tercihim bir viyolonsel olurdu , çünkü çaldığın enstrümanla karı koca gibi oluyorsun .
+target: viyolonsel+Noun+A3sg+Pnon+Nom+</s> pred: viyolonsel+Adj+A3sg+Pnon+Nom+</s>+
+Difference: ['Noun'] <===> ['Adj']
+Correct Lemma: viyolonsel
+Correct Tag(s): Adverb
+Correct Data: viyolonsel+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 377
+Input Sentence: Bu yemeğin üstüne tatlı niyetine , üstüne bol toz şeker serpilip fırına sürülmüş keçi peynirli tatlı pide geldi .
+target: tatlı+Noun+A3sg+Pnon+Nom+</s> pred: tatlı+Adj+A3sg+Pnon+Nom+</s>+
+Difference: ['Noun'] <===> ['Adj']
+Correct Lemma: tatlı
+Correct Tag(s): Adj
+Correct Data: tatlı+Adj
+Degree of Certainty (1-5): 5
+
+ID: 384
+Input Sentence: Sonunda bu iyi huylu ve girişken tazı ondan hayır gelmeyeceğini anladı .
+target: hayır+Noun+A3sg+Pnon+Nom+</s> pred: hayır+Adverb+A3sg+Pnon+Nom+</
+Difference: ['Noun'] <===> ['Adverb']
+Correct Lemma: hayır
+Correct Tag(s): Adverb
+Correct Data: hayır+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 385
+Input Sentence: En lüks olanın , nadide olan yerel şeyler olduğunu dile getiren Salzman , yerelleşmeyi " hayır kurumlarına bağış yapmaya " benzetirken , yaygınlaşan ulusalcılığa da değindi .
+target: hayır+Noun+A3sg+Pnon+Nom+</s> pred: hayır+Adverb+A3sg+Pnon+Nom+</
+Difference: ['Noun'] <===> ['Adverb']
+Correct Lemma: hayır
+Correct Tag(s): Adverb
+Correct Data: hayır+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 389
+Input Sentence: Dolayısıyla , geleceğin otomobilleri için de uzun bir ömür biçmek pek doğru değil .
+target: doğru+Noun+A3sg+Pnon+Nom+</s> pred: doğru+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: doğru
+Correct Tag(s): Postp, PCDat
+Correct Data: doğru+Postp+PCDat
+Degree of Certainty (1-5): 4
+
+ID: 390
+Input Sentence: Sizin bunu yapmanız doğru mu ? " sorusunu sorunca birkaç kişiyle ağız dalaşına girdim .
+target: doğru+Noun+A3sg+Pnon+Nom+</s> pred: doğru+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: doğru
+Correct Tag(s): Postp, PCDat
+Correct Data: doğru+Postp+PCDat
+Degree of Certainty (1-5): 3
+
+ID: 391
+Input Sentence: Başka insanlar hakkında bu kadar iyi şeyler düşünmekten hoşlanmamızın nedeni kendimizden korkmamızdır .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 392
+Input Sentence: Senden niçin bu kadar hoşlanıyorum bilmem . "
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 393
+Input Sentence: O da en az büyükbaba kadar dinç bir insandı .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 394
+Input Sentence: İşte hepsi bu kadar .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Postp, PCDat
+Correct Data: kadar+Postp+PCDat
+Degree of Certainty (1-5): 4
+
+ID: 395
+Input Sentence: Ve şu yuvarlak sopa , benim kadar boyu var .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 396
+Input Sentence: " O kadar değil mi ? "
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 397
+Input Sentence: O bana kendi ebedi tasarılarından , bir zamanlar o kadar aşkla , başarı ile başlamış olduğu tarih araştırmalarından söz ederdi .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 398
+Input Sentence: Hayatın niçin bu kadar zalim olduğunu öğrenmeli , bilmeli , anlatmalıyız .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 399
+Input Sentence: Hanımefendi onları kibar bir şekilde karşıladı , fakat onların arkadaşlığının , başkalarıyla olduğu kadar kabul edilebilir olmadığı belliydi ve kuzenleriyle , özellikle de Darcy'yle konuşurken adeta dalıp gidiyordu .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Postp, PCDat
+Correct Data: kadar+Postp+PCDat
+Degree of Certainty (1-5): 3
+
+ID: 400
+Input Sentence: Ama bazen kocası işteyken pencerenin kenarına oturuyor , mazide kalan geceyi , o kadar güzel olduğu ve saygı gördüğü balo gecesini düşünüyordu .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Postp, PCDat
+Correct Data: kadar+Postp+PCDat
+Degree of Certainty (1-5): 3
+
+ID: 401
+Input Sentence: Küçücük , ama yine de yeteri kadar büyük odasında , ezbere bildiği dört duvarın arasında eskiden nasılsa şimdi yine öyleydi .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Postp, PCDat
+Correct Data: kadar+Postp+PCDat
+Degree of Certainty (1-5): 3
+
+ID: 402
+Input Sentence: Ama bu kadar derinden olduğunu tahmin etmemiştim .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 403
+Input Sentence: Disk yazmak için ne kadar sabit disk alanına gerek vardır ?
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 404
+Input Sentence: Standart sapma , değerlerin ortalama değerden ( orta değer ) ne kadar uzaklaştığını ölçer .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 405
+Input Sentence: Aygıtımdaki bilgiler ne kadar güncel ?
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 406
+Input Sentence: TDİ Genel Müdürü Erkan Arıkan , " İhale açık ve saydam olduğu için isteyen istediği kadar kırdı " diyerek kırımla kuruma bu yıl yaklaşık 2.5 trilyon kazandırdıklarını söyledi .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Adverb
+Correct Data: kadar+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 407
+Input Sentence: Belediye sınırları içinde kent içi stratejik önem taşıyan fonksiyonların olası bir afet sonrası entegrasyonunun sağlanmasını amaçlayan kent ölçeğinde bir çalışma yürütülmüştür .
+target: sonra+Noun+A3sg+P3sg+Nom+</s> pred: sonra+Postp+A3sg+P3sg+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: sonra
+Correct Tag(s): Postp
+Correct Data: sonra+Postp
+Degree of Certainty (1-5): 3
+
+ID: 408
+Input Sentence: Akapen'in ki o kadar kör gözün parmağına ki,sanırım yakında yayından kaldırırlar .
+target: kadar+Noun+A3sg+Pnon+Nom+</s> pred: kadar+Postp+A3sg+Pnon+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: kadar
+Correct Tag(s): Postp
+Correct Data: kadar+Postp
+Degree of Certainty (1-5): 4
+
+ID: 409
+Input Sentence: Bu kapalı okullarda , okul öncesi eğitim hizmeti vermek istiyoruz .
+target: önce+Noun+A3sg+P3sg+Nom+</s> pred: önce+Postp+A3sg+P3sg+Nom+</s
+Difference: ['Noun'] <===> ['Postp']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 413
+Input Sentence: Kısacası , acı olsa da gerçek şu : Kahkahasız kaldık ...
+target: acı+Noun+A3sg+Pnon+Nom+</s> pred: acı+Verb+A3sg+Pnon+Nom+</s>
+Difference: ['Noun'] <===> ['Verb']
+Correct Lemma: acı
+Correct Tag(s): Verb, Pos, Imp, A2sg
+Correct Data: acı+Verb+Pos+Imp+A2sg
+Degree of Certainty (1-5): 2
+
+ID: 430
+Input Sentence: Rift Vadisi'nin son 10 milyon yıllık gelişimi , yeşilin daralması , bozulan eko dengelerin karşılaştırılmalı anlatımı , ana tanrıça heykelleri , etnografik öğeler ve de atamız hanımefendi Lucy'nin replikası ( aslı bir alt kattaki depoda ) müzede mutlaka görülmesi gerekenler .
+target: bir+Num+Card+</s> pred: bir+Det+Card+</s>
+Difference: ['Num'] <===> ['Det']
+Correct Lemma: bir
+Correct Tag(s): Det
+Correct Data: bir+Det
+Degree of Certainty (1-5): 5
+
+ID: 433
+Input Sentence: ÜFE BAZLI ENDEKS : Merkez Bankası'nın üretici fiyatlarını baz alarak hesapladığı reel kur endeksi ise ocakta bir öncei aya göre yüzde 1.1 arttı .
+target: bir+Num+Card+</s> pred: bir+Det+Card+</s>
+Difference: ['Num'] <===> ['Det']
+Correct Lemma: bir
+Correct Tag(s): Det
+Correct Data: bir+Det
+Degree of Certainty (1-5): 5
+
+ID: 434
+Input Sentence: Kısacası , Zina'yı bir an önce Prensle evlendirmenin yüzde yüz gereğine inanıyordu .
+target: yüz+Num+Card+</s> pred: yüz+Noun+Card+</s
+Difference: ['Num'] <===> ['Noun']
+Correct Lemma: bir
+Correct Tag(s): Det
+Correct Data: bir+Det
+Degree of Certainty (1-5): 5
+
+ID: 488
+Input Sentence: Eğer bu kız , şimdiye dek ruhsuz yaşamış olanlara bir ruh katabilirse , sefil ve çirkin bir hayat sürdürenlerin dünyasında güzellik duygusu yaratabilirse , onları bencilliklerinden kurtarıp , başkalarının kederleri uğruna gözyaşı dökebilmeyi öğretebilirse , senin hayranlığına hatta bütün dünyanın hayranlığına layık demektir .
+target: hayran+Adj+DB+Noun+Ness+A3sg+P3sg+Dat+</s> pred: hayran+Adj+DB+Noun+Ness+A3sg+P2sg+Dat+</s>
+Difference: ['P3sg'] <===> ['P2sg']
+Correct Lemma: hayran
+Correct Tag(s): P2sg
+Correct Data: hayran+Adj+DB+Noun+Ness+A3sg+P2sg+Dat
+Degree of Certainty (1-5): 4
+
+ID: 489
+Input Sentence: İnsanların yüzünde çakan o anlık mutluluk ışıltılarının göz açıp kapayıncaya kadar dağılıp gitmesinden ve bir daha dönmeyeceğinden duyduğunuz üzüntüyle içiniz burkulur .
+target: dön+Verb+Neg+DB+Noun+FutPart+A3sg+P3sg+Abl+</s> pred: dön+Verb+Neg+DB+Noun+FutPart+A3sg+P2sg+Abl+</s>
+Difference: ['P3sg'] <===> ['P2sg']
+Correct Lemma: dön
+Correct Tag(s): P2sg
+Correct Data: dön+Verb+Neg+DB+Noun+FutPart+A3sg+P2sg+Abl
+Degree of Certainty (1-5): 4
+
+ID: 491
+Input Sentence: Seni gelip burada , İngiltere'de görmek istediğini , böyle uzak bir hayali olduğunu yazdığını da hatırlıyorum .
+target: iste+Verb+Pos+DB+Noun+PastPart+A3sg+P3sg+Acc+</s> pred: iste+Verb+Pos+DB+Noun+PastPart+A3sg+P2sg+Acc+</s>
+Difference: ['P3sg'] <===> ['P2sg']
+Correct Lemma: iste
+Correct Tag(s): P2sg
+Correct Data: iste+Verb+Pos+DB+Noun+PastPart+A3sg+P2sg+Acc
+Degree of Certainty (1-5): 4
+
+ID: 492
+Input Sentence: - Sözlerimi dinleyecek , hastayı her çeşit heyecandan uzak tutacak , ilacını zamanında almasına dikkat edeceksiniz .
+target: ilaç+Noun+A3sg+P3sg+Acc+</s> pred: ilaç+Noun+A3sg+P2sg+Acc+</s>
+Difference: ['P3sg'] <===> ['P2sg']
+Correct Lemma: ilaç
+Correct Tag(s): P2sg
+Correct Data: ilaç+Noun+A3sg+P2sg+Acc
+Degree of Certainty (1-5): 4
+
+ID: 504
+Input Sentence: İlk on beş yılı çok mutlu geçen bu evlilikten Tolstoy'un 13 çocuğu oldu .
+target: çocuk+Noun+A3sg+P3sg+Nom+</s> pred: çocuk+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['P3sg'] <===> ['Pnon']
+Correct Lemma: çocuk
+Correct Tag(s): Pnon
+Correct Data: çocuk+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 4
+
+ID: 516
+Input Sentence: Ne var ki sonunda yapabilecek başka hiçbir şeyi kalmadı , zira geri çekilirken doğru yöne bile gidemediğinin dehşetle farkına varmıştı .
+target: şey+Noun+A3sg+P3sg+Nom+</s> pred: şey+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['P3sg'] <===> ['Pnon']
+Correct Lemma: şey
+Correct Tag(s): Pnon
+Correct Data: şey+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 4
+
+ID: 517
+Input Sentence: İlk on beş yılı çok mutlu geçen bu evlilikten Tolstoy'un 13 çocuğu oldu .
+target: yıl+Noun+A3sg+P3sg+Nom+</s> pred: yıl+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['P3sg'] <===> ['Pnon']
+Correct Lemma: yıl
+Correct Tag(s): Pnon
+Correct Data: yıl+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 4
+
+ID: 518
+Input Sentence: Veri sayfasını görüntülerken birden çok değerli seçim sütunu kullanmak için , hücrede açılan oku tıklatın ve ardından hücreye eklemek veya hücreden çıkartmak istediğiniz her değerin yanındaki onay kutusunu seçin veya temizleyin .
+target: sütun+Noun+A3sg+P3sg+Nom+</s> pred: sütun+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['P3sg'] <===> ['Pnon']
+Correct Lemma: sütun
+Correct Tag(s): Pnon
+Correct Data: sütun+Noun+A3sg+Pnon+Nom
+Degree of Certainty (1-5): 4
+
+ID: 519
+Input Sentence: Özet Tablo listesini oluşturan kişinin verileri ayarlama şeklinde bağlı olarak görmek veya özetlemek istediğiniz ek verileri görüntüleyebilir veya görmek veya özetlemek istemediğiniz verileri kaldırabilirsiniz .
+target: veri+Noun+A3pl+P3sg+Nom+</s> pred: veri+Noun+A3pl+Pnon+Nom+</s>
+Difference: ['P3sg'] <===> ['Pnon']
+Correct Lemma: veri
+Correct Tag(s): Pnon
+Correct Data: veri+Noun+A3pl+Pnon+Nom
+Degree of Certainty (1-5): 4
+
+ID: 520
+Input Sentence: Veri alanları , değerlerin Özet Tablo listesinde özetlenmesini sağlar .
+target: alan+Noun+A3pl+P3sg+Nom+</s> pred: alan+Noun+A3pl+Pnon+Nom+</s>
+Difference: ['P3sg'] <===> ['Pnon']
+Correct Lemma: alan
+Correct Tag(s): Pnon
+Correct Data: alan+Noun+A3pl+Pnon+Nom
+Degree of Certainty (1-5): 4
+
+ID: 563
+Input Sentence: Dolayısıyla , geleceğin otomobilleri için de uzun bir ömür biçmek pek doğru değil .
+target: otomobil+Noun+A3pl+P3sg+Nom+</s> pred: otomobil+Noun+A3pl+Pnon+Nom+</s>
+Difference: ['P3sg'] <===> ['Pnon']
+Correct Lemma: otomobil
+Correct Tag(s): P3pl
+Correct Data: otomobil+Noun+A3pl+P3pl+Nom
+Degree of Certainty (1-5): 4
+
+ID: 564
+Input Sentence: Ressam , son nefesini vermek için en uygun yer olarak Kral'ın kucağını seçti Hürriyet Tarih Ressam , son nefesini vermek için en uygun yer olarak Kral'ın kucağını seçti Sanat tarihi ile ilgili bazı kaynaklarda Leonardo da Vinci'nin ölüm tarihi 2 Mayıs 1519 olarak gösterilir ancak büyük ustanın dünyadaki son dakikaları hakkında birbiriyle çelişen bilgiler verilir .
+target: dakika+Noun+A3pl+P3sg+Nom+</s> pred: dakika+Noun+A3pl+Pnon+Nom+</s>
+Difference: ['P3sg'] <===> ['Pnon']
+Correct Lemma: dakika
+Correct Tag(s): P3pl
+Correct Data: dakika++Noun+A3pl+P3pl+Nom
+Degree of Certainty (1-5): 4
+
+ID: 574
+Input Sentence: Dijital imzalar , bir dosyanın kim tarafından yayımlandığını ve dijital olarak imzalanmasından bu yana değiştirilip değiştirilmediğini bildirir .
+target: yana+Postp+PCAbl+</s> pred: yan+Noun+Conj+PCNom+<
+Difference: ['Postp', 'PCAbl'] <===> ['Noun', 'Conj', 'PCNom']
+Correct Lemma: yana
+Correct Tag(s): PCNom
+Correct Data: yana+Postp+PCNom
+Degree of Certainty (1-5): 3
+
+ID: 577
+Input Sentence: Bizim gibi hiçbir şeyi olmayan insanlar için çok kolay olmadığını anlarsın ... Nihayet borçlar bitti , artık çok rahatladım .
+target: gibi+Postp+PCGen+</s> pred: gibi+Postp+PCNom+</s>
+Difference: ['PCGen'] <===> ['PCNom']
+Correct Lemma: gibi
+Correct Tag(s): PCNom
+Correct Data: gibi+Postp+PCNom
+Degree of Certainty (1-5): 5
+
+ID: 578
+Input Sentence: Yüzüne biraz olsun neşe geldi : " Ben de sizin gibi düşünüyorum .
+target: gibi+Postp+PCGen+</s> pred: gibi+Postp+PCNom+</s>
+Difference: ['PCGen'] <===> ['PCNom']
+Correct Lemma: gibi
+Correct Tag(s): PCNom
+Correct Data: gibi+Postp+PCNom
+Degree of Certainty (1-5): 5
+
+ID: 579
+Input Sentence: Umarım benim gibi sorunsuz bir yolculuk geçirirsin .
+target: gibi+Postp+PCGen+</s> pred: gibi+Postp+PCNom+</s>
+Difference: ['PCGen'] <===> ['PCNom']
+Correct Lemma: gibi
+Correct Tag(s): PCNom
+Correct Data: gibi+Postp+PCNom
+Degree of Certainty (1-5): 5
+
+ID: 580
+Input Sentence: Yine de korkarım , benim için yeni bir şey olmayacak .
+target: için+Postp+PCGen+</s> pred: için+Postp+PCNom+</s>
+Difference: ['PCGen'] <===> ['PCNom']
+Correct Lemma: için
+Correct Tag(s): PCNom
+Correct Data: için+PCNom
+Degree of Certainty (1-5): 3
+
+ID: 581
+Input Sentence: Sofular için sefahat nasıl hayatın tuzu biberiyse , bizim için de ahlak öyle ...
+target: için+Postp+PCGen+</s> pred: için+Postp+PCNom+</s>
+Difference: ['PCGen'] <===> ['PCNom']
+Correct Lemma: için
+Correct Tag(s): PCNom
+Correct Data: için+PCNom
+Degree of Certainty (1-5): 3
+
+ID: 590
+Input Sentence: Bir öğrenci istediği kadar devamsızlık yapabilecek , okulda aklınıza gelebilecek hangi suçu işlerse işlesin öğrenciye bir yaptırım uygulanmayacaktır .
+target: kadar+Postp+PCNom+</s> pred: kadar+Postp+PCDat+</s>
+Difference: ['PCNom'] <===> ['PCDat']
+Correct Lemma: kadar
+Correct Tag(s): PCDat
+Correct Data: kadar+Postp+PCDat
+Degree of Certainty (1-5): 5
+
+ID: 591
+Input Sentence: Zaten o öldürücü darbeyi vuran sarışın adamın suratı o kadar aklımda kaldı ki bugün bile kendisini görsem tanıyabilirim .
+target: kadar+Postp+PCNom+</s> pred: kadar+Postp+PCDat+</s>
+Difference: ['PCNom'] <===> ['PCDat']
+Correct Lemma: kadar
+Correct Tag(s): PCDat
+Correct Data: kadar+Postp+PCDat
+Degree of Certainty (1-5): 5
+
+ID: 609
+Input Sentence: Dick adlı tazı , bu emri duyar duymaz merdiveni tırmanıp terasın bir köşesine kıvrıldı .
+target: emir+Noun+A3sg+Pnon+Acc+</s> pred: emir+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['Acc'] <===> ['Nom']
+Correct Lemma: emir
+Correct Tag(s): P3sg, Nom
+Correct Data: emir+Noun+A3sg+P3sg+Nom
+Degree of Certainty (1-5): 5
+
+ID: 700
+Input Sentence: Dosya veya klasörün , Tam Denetim , Oku , Yaz gibi izinlerinin değiştirilmesine izin verir veya bu izni reddeder .
+target: izin+Noun+A3sg+Pnon+Acc+</s> pred: izin+Noun+A3sg+Pnon+Nom+</s>
+Difference: ['Acc'] <===> ['Nom']
+Correct Lemma: izin
+Correct Tag(s): P3sg, Nom
+Correct Data: izin+Noun+A3sg+P3sg+Nom
+Degree of Certainty (1-5): 1
+
+ID: 751
+Input Sentence: Çağrınıza herkesten önce ben , her şeyi yüz üstü bırakarak koşarım .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 752
+Input Sentence: Bugün , sizi kararlaştırdığımız iki haftalık süreden önce görünce yüzümdeki hoşnutsuzluğu fark ettiniz herhalde .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 754
+Input Sentence: Her şeyden önce beni kovmamalıydı . '
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 756
+Input Sentence: Pavel de hiçbir açıklama yapmadığı için olağanüstü bir olayın doğuşundan önce duyulan bir duygu kalbini gittikçe sıkıştırıyordu .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 758
+Input Sentence: Devre dışı bırakılmış bir hesabı etkinleştirmeden önce , hesabın güvenlik nedeniyle devre dışı bırakılmadığından emin olun .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 759
+Input Sentence: Diskleri bir bilgisayardan diğerine taşımaya girişmeden önce bu yordamı yazdırın veya aşağıdaki adımları not alın .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 760
+Input Sentence: Bir sertifikayı silmeden önce , sertifikanın özel anahtarıyla şifrelenmiş eski belgeleri okumak gibi amaçlarla daha sonra bu sertifikaya gerek duymayacağınızdan emin olun .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 761
+Input Sentence: Dosyalar ve klasörler için denetimi ayarlamadan önce , denetleme ilkesi ayarlarını tanımlayarak nesne erişimi olay kategorisi için nesne erişim denetimini etkinleştirmelisiniz .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 762
+Input Sentence: Kart verileri siteye gönderilmeden önce her zaman şifrelenir .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 764
+Input Sentence: Çalışmanızı kaydetmeniz ve bilgisayarı kapatmadan önce açık olan programların her birinden çıkmanız gerekir .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 765
+Input Sentence: Filtre ayarlarınızı korumak istemiyorsanız , süzmek üzere öğeleri seçmeye başlamadan önce Otomatik Filtre düğmesinin / seçili olmadığından emin olun .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 766
+Input Sentence: Bunun nedeni , bir dosyayı yedekleme hakkının , tüm dosya izinlerinden önce gelmesidir .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 770
+Input Sentence: AMAN DİKKAT Hayvanın sağlık kontrolü yapılmalı Kesimden önce hayvan yorgun olmamalı .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 3
+
+ID: 772
+Input Sentence: Zaten Geylan da öyle söylüyor : '' Biz CRM'in önemini 1995'te herkesten önce keşfettik .
+target: önce+Postp+PCAbl+</s> pred: önce+Adverb+PCAbl+</s
+Difference: ['Postp'] <===> ['Adverb']
+Correct Lemma: önce
+Correct Tag(s): Adverb
+Correct Data: önce+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 773
+Input Sentence: Bayan Joe sanki ben daha rahat edeyim diye başımı kolunun altına alarak boğazımdan aşağı ilacı boşalttı .
+target: aşağı+Postp+PCAbl+</s> pred: aşağı+Noun+PCAbl+</s>+
+Difference: ['Postp'] <===> ['Noun']
+Correct Lemma: aşağı
+Correct Tag(s): Adverb
+Correct Data: aşağı+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 774
+Input Sentence: Kollarının dirsekten aşağı kalan kısımlarını tümüyle içine alan ağır bir kürk manşonu , dimdik oturduğu yerden izleyicilere doğru kaldırır gibiydi .
+target: aşağı+Postp+PCAbl+</s> pred: aşağı+Noun+PCAbl+</s>+
+Difference: ['Postp'] <===> ['Noun']
+Correct Lemma: aşağı
+Correct Tag(s): Adverb
+Correct Data: aşağı+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 775
+Input Sentence: Bu , Kanadalılar'ın kültüründe yadırganmaktan öte övünülecek anlamlar taşır .
+target: öte+Postp+PCAbl+</s> pred: öte+Noun+PCAbl+</s>+
+Difference: ['Postp'] <===> ['Noun']
+Correct Lemma: öte
+Correct Tag(s): Adverb
+Correct Data: öte+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 776
+Input Sentence: Camdan dışarı baktık bir süre .
+target: dışarı+Postp+PCAbl+</s> pred: dışarı+Noun+PCAbl+</s>+
+Difference: ['Postp'] <===> ['Noun']
+Correct Lemma: dışarı
+Correct Tag(s): Adverb
+Correct Data: dışarı+Adverb
+Degree of Certainty (1-5): 4
+
+ID: 778
+Input Sentence: Doğ metninde şu ifade yer alıyor : " Her kim , Türkiye'de kanunen tedavül etmekte olan meskukatı mukannen kıymetleriyle kabulden imtina eyler ise 30 liraya kadar hafif cezayı nakdiye mahkum olur . "
+target: et+Verb+Pos+Prog2+A3sg+</s> pred: et+Verb+Pos+DB+A3sg+</s>+</
+Difference: ['Prog2'] <===> ['DB']
+Correct Lemma: et
+Correct Tag(s): Pos^DB, Verb, Inf1, Pnon, Nom
+Correct Data: et++Verb+Pos^DB+Verb+Inf1+Pnon+Nom
+Degree of Certainty (1-5): 3
+
+ID: 779
+Input Sentence: Tek bir sorun vardı , o da Türkçe'min iyi olmaması .
+target: o+Pron+Demons+A3sg+Pnon+Nom+</s> pred: o+Det+Pers+A3sg+Pnon+Nom+</s>+</
+Difference: ['Pron', 'Demons'] <===> ['Det', 'Pers']
+Correct Lemma: o
+Correct Tag(s): Det
+Correct Data: o+Det
+Degree of Certainty (1-5): 5
+
+ID: 780
+Input Sentence: Albümde tek bir kanto var , o da tamamen kendi isteğim üzerine çalışmaya girdi .
+target: o+Pron+Demons+A3sg+Pnon+Nom+</s> pred: o+Det+Pers+A3sg+Pnon+Nom+</s>+</
+Difference: ['Pron', 'Demons'] <===> ['Det', 'Pers']
+Correct Lemma: o
+Correct Tag(s): Det
+Correct Data: o+Det
+Degree of Certainty (1-5): 5
+
+ID: 781
+Input Sentence: FIFA kuralı neyse o uygulanmalıdır " dedi .
+target: o+Pron+Demons+A3sg+Pnon+Nom+</s> pred: o+Det+Pers+A3sg+Pnon+Nom+</s>+</
+Difference: ['Pron', 'Demons'] <===> ['Det', 'Pers']
+Correct Lemma: o
+Correct Tag(s): Det
+Correct Data: o+Det
+Degree of Certainty (1-5): 5
+
+ID: 782
+Input Sentence: Peki ya geçtiğimiz günlerde onca tartışmaya yol açan dolarlı müze fiyatları ?
+target: o+Pron+Demons+A3sg+Pnon+Equ+</s> pred: on+Pers+A3sg+Pnon+Equ+</s>+</s>+
+Difference: ['Pron', 'Demons'] <===> ['Pers']
+Correct Lemma: on
+Correct Tag(s): Num, Dist
+Correct Data: on+Num+Dist
+Degree of Certainty (1-5): 4
+
+ID: 785
+Input Sentence: Bu körpecik sineler neden bu denli coşkuyla yükselip alçalıyor , inip kalkıyor ? " diye sorar durursunuz .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 788
+Input Sentence: Halbuki bu sana yakışmaz .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 790
+Input Sentence: Ta ki kafasını sert bir şekilde duvara çarpana kadar bu böyle devam etti .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 793
+Input Sentence: Lüsyen'in durumu işte bu , iki gözüm .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 795
+Input Sentence: Bu en iyisi .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 796
+Input Sentence: Hiç iyi bir şey değil bu .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 797
+Input Sentence: Ama bu , sonraları her odayı topladığında koltuğu yine pencerenin altına itmesi , üstelik içteki pencerenin kanadını açık bırakması için yetmişti .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 798
+Input Sentence: Ama bu bir işe yaramıyordu ve ben bundan dolayı kahroluyordum .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 799
+Input Sentence: İlk on beş yılı çok mutlu geçen bu evlilikten Tolstoy'un 13 çocuğu oldu .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 801
+Input Sentence: Bu , iki eşin de desteklediği en güvenli yöntemin kullanılmasını sağlar .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 802
+Input Sentence: Bu , tarih hesaplamalarınızda en yüksek düzeyde doğruluk sağlayacaktır .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 803
+Input Sentence: Bu normaldir ve Otomatik Çalıştır iletişim kutusu kendi kendine kapatılır .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 804
+Input Sentence: Bu komut yalnızca standart yüklemeyi tamamlar .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 806
+Input Sentence: Bu asıl AB'nin Türkiye konusunda sorduğu sorulardan biridir ' dedi .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 807
+Input Sentence: Turizm eski bakanları Bahattin Yücel ve İbrahim Gürdal zamanında da ortaya atılan bu projeye , turizmde yabancı sermayeye teşvik verilmesinden yana Mumcu'nın sıcak baktığı bildirildi .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 808
+Input Sentence: Bu bir şampiyonun kumaşıydı .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 810
+Input Sentence: Bu , İngiltere'de büyük talep gördü .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 811
+Input Sentence: Bu ne demek ?
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 813
+Input Sentence: Bu , Kanadalılar'ın kültüründe yadırganmaktan öte övünülecek anlamlar taşır .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 814
+Input Sentence: Kısacası , acı olsa da gerçek şu : Kahkahasız kaldık ...
+target: şu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: şu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: şu
+Correct Tag(s): Det
+Correct Data: şu+Det
+Degree of Certainty (1-5): 4
+
+ID: 815
+Input Sentence: Bu da sanırım herkese örnek olmalı .
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 4
+
+ID: 817
+Input Sentence: Hatam bu mu ?
+target: bu+Pron+Demons+A3sg+Pnon+Nom+</s> pred: bu+Det+Demons+A3sg+Pnon+Nom+</s>+
+Difference: ['Pron'] <===> ['Det']
+Correct Lemma: bu
+Correct Tag(s): Det
+Correct Data: bu+Det
+Degree of Certainty (1-5): 3
+
+ID: 830
+Input Sentence: Birden sabahtan beri ilk defa vücudunda bir rahatlık duydu .
+target: rahat+Noun+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s> pred: rahat+Adj+A3sg+Pnon+Nom+DB+Noun+Ness+A3sg+Pnon+Nom+</s>+
+Difference: [] <===> ['Adj']
+Correct Lemma: rahat
+Correct Tag(s): Adj
+Correct Data: rahat+Adj^DB+Noun+Ness+A3sg+Pnon
+Degree of Certainty (1-5): 3
+
+ID: 831
+Input Sentence: Yetkilendirme Yöneticisi konsolunda üç düzeyden birinde uygulama grupları oluşturabilirsiniz .
+target: biri+Pron+Quant+A3sg+P3sg+Loc+</s> pred: bir+Adj+Pron+Quant+A3sg+P3sg+Loc+<
+Difference: [] <===> ['Adj']
+Correct Lemma: bir
+Correct Tag(s): Adj, Zero, Noun
+Correct Data: bir+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+Degree of Certainty (1-5): 3
+
+ID: 834
+Input Sentence: Her yetkilendirme deposunun değiştirebilen birkaç özelliği vardır .
+target: var+Verb+DB+Verb+Caus+Pos+Imp+A2sg+</s> pred: var+Adj+Pos+Verb+Caus+Pos+Imp+A2sg+</s>
+Difference: ['DB'] <===> ['Adj']
+Correct Lemma: var
+Correct Tag(s): Adj, Zero, Pres, A3sg, Cop
+Correct Data: var+Adj^DB+Verb+Zero+Pres+A3sg+Cop
+Degree of Certainty (1-5): 2
+
+ID: 871
+Input Sentence: Lord Henry , opera dürbünüyle salondakileri gözden geçirirken , " Kendisi gibi aynı et ve aynı kandan mı !
+target: salon+Noun+A3sg+Pnon+Loc+DB+Adj+Rel+DB+Noun+Zero+A3pl+Pnon+Acc+</s> pred: salon+Noun+A3pl+Pnon+Loc+DB+Adj+Rel+DB+Noun+Zero+A3pl+P3pl+Acc+</s>
+Difference: ['A3sg'] <===> ['P3pl']
+Correct Lemma: salon
+Correct Tag(s): P3pl
+Correct Data: salon+Noun+A3sg+Pnon+Loc+DB+Adj+Rel+DB+Noun+Zero+A3pl+P3pl+Acc
+Degree of Certainty (1-5): 4
+

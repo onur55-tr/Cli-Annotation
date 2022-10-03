@@ -141,9 +141,9 @@ CLI for Annotation/
 
 ## Developers
 
-[![Onur55-tr](https://github.com/onur55-tr.png?size=100)](https://onur-dursun.epizy.com) | [![A-karah](https://github.com/a-karah.png?size=100)](https://github.com/a-karah)
+![Onur55-tr](https://github.com/onur55-tr.png?size=100) | ![A-karah](https://github.com/a-karah.png?size=100)
 ----|----|
-| [Onur Dursun](https://t.me/sherlockcbr) | [Abdulselam Karahan](https://github.com/a-karah.png)
+| [Onur Dursun](https://github.com/onur55-tr) | [Abdulselam Karahan](https://github.com/a-karah)
 Developer, Base, Bug Fixes, Modules | Author, Developer, Base, Bug Fixes, Modules
 
 ## License
